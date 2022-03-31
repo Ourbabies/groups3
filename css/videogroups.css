@@ -1,0 +1,120 @@
+.videogruops {
+  margin-bottom: 100px;
+}
+
+.videogruops__list {
+  text-align: center;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 1px solid #f7cbbd;
+  margin: 10px 0;
+}
+
+.videogruops__list-team {
+  text-align: center;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 1px solid #f7cbbd;
+  margin: 10px 0;
+}
+
+.videogruops__list:nth-child(1) {
+  background-image: url(../img/a.png);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+.videogruops__list:nth-child(2) {
+  background-image: url(../img/a.png);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+
+.videogruops__list:nth-child(3) {
+  background-image: url(../img/a.png);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+.videogruops__list:nth-child(4) {
+  background-image: url(../img/a.png);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+
+.videogruops__list h2 {
+  margin: 10px 0;
+}
+
+.videogruops__list iframe {
+  border-radius: 2px;
+}
+.videogruops__list-team h2 {
+  margin: 10px 0;
+}
+
+.videogruops__list-team iframe {
+  border-radius: 2px;
+}
+
+.videogruops__list__info {
+  padding: 140px;
+}
+
+.videogruops__list__info-logo {
+  padding: 20px 0 10px;
+}
+
+.videogruops__list__info-logo img {
+  border-radius: 50%;
+  width: 55%;
+}
+
+.videogruops__list__info-name {
+  color: #f38361;
+  font-weight: 800;
+  font-size: 2.4rem;
+  font-family: "Hurricane", cursive;
+}
+
+.videogruops__list__info-icon {
+  padding: 10px 0 8px;
+}
+
+.videogruops__list__info-icon a {
+  margin: 0 10px;
+  font-size: 1.8rem;
+  color: #fca085;
+}
+
+.videogruops__list__video {
+  margin-top: 100px;
+}
+
+.videogruops__list__video h1 {
+  padding: 0px 0 20px;
+  margin-left: -40px;
+}
+
+.videogruops__list__video video {
+  padding: 0 0 10px;
+  border-radius: 10px;
+  width: 567px;
+  height: 330px;
+  margin-left: -81px;
+  margin-top: -8px;
+}
+.videogruops__list__video iframe {
+  padding: 0 0 10px;
+  border-radius: 10px;
+  width: 567px;
+  height: 330px;
+  margin-left: -81px;
+  margin-top: -8px;
+}
